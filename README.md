@@ -14,7 +14,7 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 * Ricardo Katz - github.com/rikatz - Twitter: @rpkatz
 * Yago Nobre - github.com/yagonobre - Twitter: @YagoYns
 
-### Belo Horizonte
+### [Belo Horizonte](BeloHorizonte/README.md)
 * Andre Almar
 * Amanda Pinto
 * Marcelo Umberto Ferreira
@@ -23,13 +23,13 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 * Vinicius Neuhauss - github.com/neuhauss
 * Lauro Silveira
 
-### Rio de Janeiro
+### [Rio de Janeiro](Rio/README.md)
 * Fabricio Veronez - github.com/fabricioveronez
 * Wilson Junior
 * Paulo Simoes - github.com/pasimoes - Twitter: @pasimoes
 * Thiago Soares - github.com/tsoarescruz
 
-### Porto Alegre
+### [Porto Alegre](PortoAlegre/README.md)
 * Alexandre Mioranza - github.com/amioranza - Twitter: @a_mioranza
 
 ### Recife
