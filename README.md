@@ -36,7 +36,7 @@ Link para o Meetup: https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/
 * Lucas Assad  - github.com/lsca
 * Marcelo Rocha Rabelo de Andrade
 
-### Talks Brazil
+### [Talks Brazil](TalksBR/README.md)
 * Christiano Linuxmen
 * Eduardo Neves (a.k.a Eth0) - github.com/eduardo-eth0
 * Marcos Sungaila - github.com/christiano-linuxmen
